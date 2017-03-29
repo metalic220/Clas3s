@@ -1,0 +1,12 @@
+G:\PRSP\Chat\ClienteChat\bin\Debug\ClienteChat.exe.config
+G:\PRSP\Chat\ClienteChat\bin\Debug\ClienteChat.exe
+G:\PRSP\Chat\ClienteChat\bin\Debug\ClienteChat.pdb
+G:\PRSP\Chat\ClienteChat\obj\Debug\ClienteChat.Form1.resources
+G:\PRSP\Chat\ClienteChat\obj\Debug\ClienteChat.Properties.Resources.resources
+G:\PRSP\Chat\ClienteChat\obj\Debug\ClienteChat.csproj.GenerateResource.Cache
+G:\PRSP\Chat\ClienteChat\obj\Debug\ClienteChat.exe
+G:\PRSP\Chat\ClienteChat\obj\Debug\ClienteChat.pdb
+G:\PRSP\Chat\ClienteChat\obj\Debug\ClienteChat.csprojResolveAssemblyReference.cache
+C:\Users\jonny\Desktop\Chat\ClienteChat\bin\Debug\ClienteChat.exe.config
+C:\Users\jonny\Desktop\Chat\ClienteChat\obj\Debug\ClienteChat.exe
+C:\Users\jonny\Desktop\Chat\ClienteChat\obj\Debug\ClienteChat.pdb
