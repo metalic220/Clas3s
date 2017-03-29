@@ -10,6 +10,3 @@ G:\PRSP\Chat\ClienteChat\obj\Debug\ClienteChat.csprojResolveAssemblyReference.ca
 C:\Users\jonny\Desktop\Chat\ClienteChat\bin\Debug\ClienteChat.exe.config
 C:\Users\jonny\Desktop\Chat\ClienteChat\obj\Debug\ClienteChat.exe
 C:\Users\jonny\Desktop\Chat\ClienteChat\obj\Debug\ClienteChat.pdb
-C:\Users\jonny\Documents\GitHub\Clas3s\Chat\ClienteChat\bin\Debug\ClienteChat.exe.config
-C:\Users\jonny\Documents\GitHub\Clas3s\Chat\ClienteChat\obj\Debug\ClienteChat.exe
-C:\Users\jonny\Documents\GitHub\Clas3s\Chat\ClienteChat\obj\Debug\ClienteChat.pdb
